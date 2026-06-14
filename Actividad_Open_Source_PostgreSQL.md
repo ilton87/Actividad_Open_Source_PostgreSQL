@@ -1,30 +1,29 @@
-\# HERRAMIENTAS OPEN SOURCE PARA ADMINISTRAR POSTGRESQL
+# HERRAMIENTAS OPEN SOURCE PARA ADMINISTRAR POSTGRESQL
 
 
 
-\## Portada
+## Portada
 
 
 
-\*\*Estudiante:\*\* Ilton Said Sandoval Z.  
+**Estudiante:** Ilton Said Sandoval Z.  
 
-\*\*Curso:\*\* 4to Semestre  
+**Curso:** 4to Semestre  
 
-\*\*Asignatura:\*\* Base de Datos I  
+**Asignatura:** Base de Datos I  
 
-\*\*Docente:\*\* Ing. Jared López L.  
+**Docente:** Ing. Jared López L.  
 
-\*\*Fecha:\*\* 14/06/2026  
+**Fecha:** 14/06/2026  
 
-\*\*Lugar:\*\* Santa Cruz - Bolivia
-
-
-
-\---
+**Lugar:** Santa Cruz - Bolivia
 
 
 
-\# Introducción
+---
+
+
+# Introducción
 
 
 
@@ -40,7 +39,7 @@ Por otra parte, el software Open Source se caracteriza por permitir el acceso al
 
 
 
-\# Metodología
+# Metodología
 
 
 
@@ -56,27 +55,27 @@ Como criterios de selección se consideraron la licencia de uso, el tipo de inte
 
 
 
-\# Desarrollo
+# Desarrollo
 
 
 
-\## 1. phpPgAdmin
+## 1. phpPgAdmin
 
 
 
-\*\*Licencia:\*\* GPL
+**Licencia:** GPL
 
 
 
-\*\*Tipo de interfaz:\*\* Web
+**Tipo de interfaz:** Web
 
 
 
-\*\*Sitio oficial:\*\* https://github.com/phppgadmin/phppgadmin
+**Sitio oficial:** https://github.com/phppgadmin/phppgadmin
 
 
 
-\*\*Descripción:\*\*
+**Descripción:**
 
 
 
@@ -84,23 +83,23 @@ phpPgAdmin es una herramienta web desarrollada específicamente para la administ
 
 
 
-\## 2. DBeaver Community Edition
+## 2. DBeaver Community Edition
 
 
 
-\*\*Licencia:\*\* Apache License 2.0
+**Licencia:** Apache License 2.0
 
 
 
-\*\*Tipo:\*\* GUI
+**Tipo:** GUI
 
 
 
-\*\*Sitio Oficial:\*\* https://dbeaver.io
+**Sitio Oficial:** https://dbeaver.io
 
 
 
-\*\*Descripción:\*\*
+**Descripción:**
 
 
 
@@ -108,23 +107,23 @@ DBeaver Community Edition es una herramienta de código abierto que permite cone
 
 
 
-\## 3. Adminer
+## 3. Adminer
 
 
 
-\*\*Licencia:\*\* Apache License 2.0
+**Licencia:** Apache License 2.0
 
 
 
-\*\*Tipo:\*\* Web
+**Tipo:** Web
 
 
 
-\*\*Sitio Oficial:\*\* https://www.adminer.org
+**Sitio Oficial:** https://www.adminer.org
 
 
 
-\*\*Descripción:\*\*
+**Descripción:**
 
 
 
@@ -132,23 +131,23 @@ Adminer es una aplicación web ligera para la administración de bases de datos 
 
 
 
-\## 4. Beekeeper Studio
+## 4. Beekeeper Studio
 
 
 
-\*\*Licencia:\*\* GPL v3
+**Licencia:** GPL v3
 
 
 
-\*\*Tipo:\*\* GUI
+**Tipo:** GUI
 
 
 
-\*\*Sitio Oficial:\*\* https://www.beekeeperstudio.io
+**Sitio Oficial:** https://www.beekeeperstudio.io
 
 
 
-\*\*Descripción:\*\*
+**Descripción:**
 
 
 
@@ -156,23 +155,23 @@ Beekeeper Studio es un cliente SQL moderno y de código abierto diseñado para f
 
 
 
-\## 5. OmniDB
+## 5. OmniDB
 
 
 
-\*\*Licencia:\*\* MIT
+**Licencia:** MIT
 
 
 
-\*\*Tipo:\*\* Web
+**Tipo:** Web
 
 
 
-\*\*Sitio Oficial:\*\* https://omnidb.org
+**Sitio Oficial:** https://omnidb.org
 
 
 
-\*\*Descripción:\*\*
+**Descripción:**
 
 
 
@@ -180,7 +179,7 @@ OmniDB es una herramienta web enfocada en el desarrollo y administración de Pos
 
 
 
-\# Resultados
+# Resultados
 
 
 
@@ -200,7 +199,7 @@ OmniDB es una herramienta web enfocada en el desarrollo y administración de Pos
 
 
 
-\# Conclusión
+# Conclusión
 
 
 
@@ -208,17 +207,19 @@ Las herramientas Open Source para PostgreSQL ofrecen soluciones eficientes para 
 
 
 
-\# Referencias
+# Referencias
 
 
 
-1\. https://github.com/phppgadmin/phppgadmin
+1. https://github.com/phppgadmin/phppgadmin
 
-2\. https://dbeaver.io
+2. https://dbeaver.io
 
-3\. https://www.adminer.org
+3. https://www.adminer.org
 
-4\. https://www.beekeeperstudio.io
+4. https://www.beekeeperstudio.io
 
-5\. https://omnidb.org
+5. https://omnidb.org
+
+
 
